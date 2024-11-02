@@ -1,2 +1,2 @@
 # studies
-My repository to share studying and testing materials.
+My repository to keep studying and testing materials.
